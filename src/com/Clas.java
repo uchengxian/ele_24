@@ -18,6 +18,9 @@ class Persons{
     public void fun2(){
         System.out.println("输出了一个方法");
     }
+    public void fun3(){
+        System.out.println("输出了3个方法");
+    }
     static class Students{
         public void fun2(){
             System.out.println("输出了第二个方法");
