@@ -32,12 +32,9 @@ abstract class Student extends Person{
     }
 }
 class Studen extends Student{
-
     @Override
     public void eat() {
-
     }
-
     @Override
     public void walt() {
 
