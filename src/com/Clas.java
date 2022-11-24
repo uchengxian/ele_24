@@ -7,6 +7,7 @@ public class Clas {
 //        调用非静态
         Persons p1 = new Persons();
         Persons.Man m1 = p1.new Man();
+        System.out.println("改变了一下");
     }
 }
 class Persons{
