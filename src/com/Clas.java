@@ -21,9 +21,11 @@ class Persons{
     public void fun3(){
         System.out.println("输出了3个方法");
     }
-    static
     public void fun4(){
         System.out.println("输出了4个方法");
+    }
+    public void fun5(){
+        System.out.println("输出了5个方法");
     }
     static class Students{
         public void fun2(){
